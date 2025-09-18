@@ -16,4 +16,4 @@
 ## Usage 🚀
 <p>Run the development server with <code>npm run dev</code>, then open your browser and go to <strong>http://localhost:3000</strong> to use the app.</p> <p>Register or login to explore full features, browse the menu, add items to cart, apply promo codes, and view order summary.</p>
 #Contributors 👥
-<p>Anubhav - [GitHub](https://github.com/YourGitHubProfile)</p>
+<p>Anubhav - [GitHub](https://github.com/Anubhav981/Food-Delivery-Site.git)</p>
